@@ -14,4 +14,4 @@ This repository holds my official certifications and training achievements in th
 
 ## 2. Play It Safe: Manage Security Risks
 
-* In way of it. Will be completing soon.
+* Will be completing soon.
