@@ -9,7 +9,7 @@ This repository holds my official certifications and training achievements in th
 * **Date Earned:** [July, 2026]
 * **Key Skills Learned:** Network security basics, threat analysis, history of cybersecurity, cryptographic attack, introduced to many frameworks.
 
-*![My Cybersecurity Certificate](Courseracyber1.pdf)
+*![My Cybersecurity Certificate](Coursera-cyber-1.pdf)
 
 
 ## 2. Play It Safe: Manage Security Risks
