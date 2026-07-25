@@ -1,4 +1,5 @@
-# Cybersecurity-Certifications
+# Cybersecurity
+
 # My Cybersecurity Certifications
 
 This repository holds my official certifications and training achievements in the field of Cybersecurity.
