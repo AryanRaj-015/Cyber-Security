@@ -1,4 +1,4 @@
-# Cybersecurity
+# Cyber-Security
 
 # My Cybersecurity Certifications
 
