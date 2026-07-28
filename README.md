@@ -19,6 +19,12 @@ This repository holds my official certifications and training achievements in th
 
 ## 2. Play It Safe: Manage Security Risks
 
-* Practice security audit :- 
+* Practice security audit :- **[My Analysis in my Practise security audit](Practise-Security-Audits)**
+* Answers of the Mock Security Audits :- **[Actual answers of the Questions](Answers-of-Practise-Security-Audits)**
+
+* [x] Module 1
+* [x] module 2
+* [x] Module 3
+* [ ] Module 4
 
 * Will be completing soon.
