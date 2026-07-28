@@ -14,7 +14,7 @@ This repository holds my official certifications and training achievements in th
 * [x] Module 3
 * [x] Module 4
   
- * ***[My Cybersecurity Certificate](Coursera-cyber-1.pdf)***
+ * ***[My Cybersecurity Certificate](Coursera-Cybersecurity-Certificate-1.pdf)***
 
 
 ## 2. Play It Safe: Manage Security Risks
