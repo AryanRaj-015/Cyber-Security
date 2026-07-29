@@ -22,6 +22,7 @@ This repository holds my official certifications and training achievements in th
 * **Issued by:** [Coursera]
 * **Date Earned:** [29 July, 2026]
 
+* Scenario Given :- **[Scenario given to me](Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)**
 * Practice security audit :- **[My Analysis in my Practise security audit](Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
 * Answers of the Mock Security Audits :- **[Actual answers of the Practise security audits](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
 
