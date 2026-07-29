@@ -9,7 +9,7 @@ This repository holds my official certifications and training achievements in th
 * **Issued by:** [Coursera]
 * **Date Earned:** [4 July, 2026]
 
-<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </p>
 
 * [x] Module 1
 * [x] module 2
