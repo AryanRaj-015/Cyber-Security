@@ -9,15 +9,15 @@ This repository holds my official certifications and training achievements in th
 * **Issued by:** [Coursera]
 * **Date Earned:** [4 July, 2026]
 
-<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+<br>
 
 * [x] Module 1
 * [x] module 2
 * [x] Module 3
 * [x] Module 4
 
-<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
-  
+<br>
+
 ### ***[Certificate 1 - Foundations of Cybersecurity](Cybersecurity-Certificates/1-Coursera-CyberSecurity-M6PCZNT4C71P.pdf)***
 
 
@@ -32,14 +32,14 @@ This repository holds my official certifications and training achievements in th
 * Practice security audit :- **[My Analysis in Practise security audit](Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
 * Answers of the Practice Security Audits :- **[Answers of the Practise security audits](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
 
-<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+<br>
 
 * [x] Module 1
 * [x] module 2
 * [x] Module 3
 * [x] Module 4
 
-<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+<br>
 
 ### ***[Certificate 2 - Play It Safe: Manage Security Risks](Cybersecurity-Certificates/2-Coursera-CyberSecurity-Y6B6B0Z7J0CY.pdf)***
 
