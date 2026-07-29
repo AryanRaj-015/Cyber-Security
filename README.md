@@ -16,7 +16,7 @@ This repository holds my official certifications and training achievements in th
 * [x] Module 3
 * [x] Module 4
 
-<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+<p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
   
 ### ***[Certificate 1 - Foundations of Cybersecurity](Cybersecurity-Certificates/1-Coursera-CyberSecurity-M6PCZNT4C71P.pdf)***
 
