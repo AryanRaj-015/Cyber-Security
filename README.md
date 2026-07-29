@@ -7,17 +7,20 @@ This repository holds my official certifications and training achievements in th
 ## 1. Foundations of Cybersecurity
 
 * **Issued by:** [Coursera]
-* **Date Earned:** [July, 2026]
+* **Date Earned:** [4 July, 2026]
   
 * [x] Module 1
 * [x] module 2
 * [x] Module 3
 * [x] Module 4
   
- * ***[My Cybersecurity Certificate]()***
+ * ***[Foundations of Cybersecurity](Cybersecurity-Certificates/1-Coursera-CyberSecurity-M6PCZNT4C71P.pdf)***
 
 
 ## 2. Play It Safe: Manage Security Risks
+
+* **Issued by:** [Coursera]
+* **Date Earned:** [29 July, 2026]
 
 * Practice security audit :- **[My Analysis in my Practise security audit](Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
 * Answers of the Mock Security Audits :- **[Actual answers of the Questions](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
@@ -27,4 +30,4 @@ This repository holds my official certifications and training achievements in th
 * [x] Module 3
 * [x] Module 4
 
-* ***[Play It Safe: Manage Security Risks]()***
+* ***[Play It Safe: Manage Security Risks](Cybersecurity-Certificates/2-Coursera-CyberSecurity-Y6B6B0Z7J0CY.pdf)***
