@@ -23,7 +23,7 @@ This repository holds my official certifications and training achievements in th
 * **Date Earned:** [29 July, 2026]
 
 * Practice security audit :- **[My Analysis in my Practise security audit](Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
-* Answers of the Mock Security Audits :- **[Actual answers of the Questions](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
+* Answers of the Mock Security Audits :- **[Actual answers of the Practise security audits](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
 
 * [x] Module 1
 * [x] module 2
