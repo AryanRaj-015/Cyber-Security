@@ -46,4 +46,7 @@ This repository holds my official certifications and training achievements in th
 
 ## 3. Connect and Protect: Networks and Network Security
 
-* **Will be soon.**
+* [x] Module 1
+* [ ] Module 2
+* [ ] Module 3
+* [ ] Module 4
