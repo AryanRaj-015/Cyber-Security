@@ -31,7 +31,7 @@ This repository holds my official certifications and training achievements in th
 #### MOCK SECURITY AUDIT
 * Scenario Given :- **[Scenario](Projects/Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)**
 * My answer of Practice Security Audit :- **[My Analysis in Practise security audit](Projects/Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
-* Answers for the Practice Security Audits :- **[Answers of the Practise security audits given by Them](Projects/Practice-Cybersecurity-Audits/Answers    of-Practice-Security-Audits.pdf)**
+* Answers for the Practice Security Audits :- **[Answers of the Practise security audits given by Them](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
 
 <br>
 
