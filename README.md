@@ -29,9 +29,9 @@ This repository holds my official certifications and training achievements in th
 <br>
 
 #### MOCK SECURITY AUDIT
-* Scenario Given :- **[Scenario](Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)**
-* My answer of Practice Security Audit :- **[My Analysis in Practise security audit](Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
-* Answers for the Practice Security Audits :- **[Answers of the Practise security audits given by Them](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
+* Scenario Given :- **[Scenario](Projects/Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)**
+* My answer of Practice Security Audit :- **[My Analysis in Practise security audit](Projects/Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
+* Answers for the Practice Security Audits :- **[Answers of the Practise security audits given by Them](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
 
 <br>
 
@@ -52,7 +52,7 @@ This repository holds my official certifications and training achievements in th
 * [ ] Module 4
 
 #### MOCK SECURITY AUDIT
-* Scenario Given :- **[Scenario](Practice-Cybersecurity-Report/Scenario.png)**
-* Format Given :- **[Format of the question given](Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)**
-* My answers of the Practice Security Report :- **[My Analysis in Practise security ](Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)**
-* Answers for the Practice Security Report :- **[Answers of the Practise security audits given by Them](Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)**
+* Scenario Given :- **[Scenario](Projects/Practice-Cybersecurity-Report/Scenario.png)**
+* Format Given :- **[Format of the question given](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)**
+* My answers of the Practice Security Report :- **[My Analysis in Practise security ](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)**
+* Answers for the Practice Security Report :- **[Answers of the Practise security audits given by Them](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)**
