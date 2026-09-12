@@ -30,8 +30,8 @@ This repository holds my official certifications and training achievements in th
 
 #### MOCK SECURITY AUDIT
 * Scenario Given :- **[Scenario](Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)**
-* Practice security audit :- **[My Analysis in Practise security audit](Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
-* Answers of the Practice Security Audits :- **[Answers of the Practise security audits](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
+* Practice Security Audit :- **[My Analysis in Practise security audit](Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
+* Answers for the Practice Security Audits :- **[Answers of the Practise security audits given by Them](Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
 
 <br>
 
@@ -47,6 +47,11 @@ This repository holds my official certifications and training achievements in th
 ## 3. Connect and Protect: Networks and Network Security
 
 * [x] Module 1
-* [ ] Module 2
-* [ ] Module 3
+* [x] Module 2
+* [x] Module 3
 * [ ] Module 4
+
+#### MOCK SECURITY AUDIT
+* Scenario Given :- **[Scenario]()**
+* Practice Security Report :- **[My Analysis in Practise security ]()**
+* Answers for the Practice Security Report :- **[Answers of the Practise security audits given by Them]()**
