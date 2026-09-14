@@ -46,13 +46,20 @@ This repository holds my official certifications and training achievements in th
 
 ## 3. Connect and Protect: Networks and Network Security
 
-* [x] Module 1
-* [x] Module 2
-* [x] Module 3
-* [ ] Module 4
+* **Issued by:** [Coursera]
+* **Date Earned:** [14 September, 2026]
 
-#### MOCK SECURITY AUDIT
+<br>
+
+#### MOCK SECURITY REPORT
 * Scenario Given :- **[Scenario](Projects/Practice-Cybersecurity-Report/Scenario.png)**
 * Format Given :- **[Format of the question given](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)**
 * My answers of the Practice Security Report :- **[My Analysis in Practise security ](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)**
 * Answers for the Practice Security Report :- **[Answers of the Practise security audits given by Them](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)**
+
+* [x] Module 1
+* [x] Module 2
+* [x] Module 3
+* [x] Module 4
+
+### ***[Certificate 3 - Connect and Protect: Networks and Network Security](Cybersecurity-Certificates/3-Coursera-Cybersecurity-ZEHF0JOT6J3M.pdf)***
