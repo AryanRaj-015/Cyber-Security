@@ -63,3 +63,17 @@ This repository holds my official certifications and training achievements in th
 * [x] Module 4
 
 ### ***[Certificate 3 - Connect and Protect: Networks and Network Security](Cybersecurity-Certificates/3-Coursera-Cybersecurity-ZEHF0JOT6J3M.pdf)***
+
+## 4. Tools of the Trade: Linux and SQL
+
+* **Issued by:** [Coursera]
+* **Date Earned:** [22 October, 2026]
+
+<br>
+
+* [x] Module 1
+* [x] Module 2
+* [x] Module 3
+* [x] Module 4
+
+### ***[Certificate 4 - Tools of the Trade: Linux and SQL](Cybersecurity-Certificates/4-Coursera-Cybersecurity-ANPJXBP5DSOF.pdf)***
