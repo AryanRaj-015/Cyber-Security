@@ -1,119 +1,103 @@
-# Google Cyber-Security Course 
+# Cybersecurity Portfolio
 
-# My Cybersecurity Certifications
+**Aryan Raj Singh**
 
-This repository holds my official certifications and training achievements in the field of Cybersecurity.
+This repository documents my cybersecurity learning journey through the **Google Cybersecurity Professional Certificate**. It brings together course certificates and practical exercises covering security risk management, network analysis, Linux, SQL, audits, and incident response.
 
-## 1. Foundations of Cybersecurity
+It is also a working portfolio of how I apply foundational concepts to structured, evidence-based security tasks.
 
-* **Issued by:** [Coursera]
-* **Date Earned:** [4 July, 2026]
+## Professional Summary
 
-<br>
+- Developing practical skills in security risk identification and mitigation
+- Practicing incident analysis and structured security documentation
+- Building experience with network traffic analysis and Wireshark logs
+- Learning Linux and SQL fundamentals for security operations
+- Developing familiarity with common cybersecurity frameworks and audit activities
 
-* [x] Module 1
-* [x] module 2
-* [x] Module 3
-* [x] Module 4
+> This portfolio represents training and practice work. It does not imply professional employment or production security experience.
 
-<br>
+## Certification and Training
 
-### ***[Certificate 1 - Foundations of Cybersecurity](Cybersecurity-Certificates/1-Coursera-CyberSecurity-M6PCZNT4C71P.pdf)***
+| Course | Status | Completed | Certificate |
+|---|---|---:|---|
+| Foundations of Cybersecurity | Complete | 4 July 2026 | [View certificate](Cybersecurity-Certificates/1-Coursera-CyberSecurity-M6PCZNT4C71P.pdf) |
+| Play It Safe: Manage Security Risks | Complete | 29 July 2026 | [View certificate](Cybersecurity-Certificates/2-Coursera-CyberSecurity-Y6B6B0Z7J0CY.pdf) |
+| Connect and Protect: Networks and Network Security | Complete | 14 September 2026 | [View certificate](Cybersecurity-Certificates/3-Coursera-Cybersecurity-ZEHF0JOT6J3M.pdf) |
+| Tools of the Trade: Linux and SQL | Complete | 22 October 2026 | [View certificate](Cybersecurity-Certificates/4-Coursera-Cybersecurity-ANPJXBP5DSOF.pdf) |
+| Assets, Threats, and Vulnerabilities | In progress | - | - |
 
+## Practical Work
 
-## 2. Play It Safe: Manage Security Risks
+### Security Audits
 
-* **Issued by:** [Coursera]
-* **Date Earned:** [29 July, 2026]
+Reviewed a security assessment scenario and documented risks, scope, goals, and recommended controls.
 
-<br>
+- [Botium Toys scope, goals, and risk assessment](Projects/Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)
+- [Security audit practice materials](Projects/Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)
+- [My completed audit analysis](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)
 
-#### MOCK SECURITY AUDIT
-* Scenario Given :- **[Scenario](Projects/Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)**
-* My answer of Practice Security Audit :- **[My Analysis in Practise security audit](Projects/Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)**
-* (Official)Answers for the Practice Security Audits :- **[Official Answer](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)**
+### Incident Response and Network Analysis
 
-<br>
+Analyzed network traffic and incident scenarios, then documented findings and compared them with course reference responses.
 
-* [x] Module 1
-* [x] module 2
-* [x] Module 3
-* [x] Module 4
+- [Incident scenario](Projects/Practice-Cybersecurity-Report/Scenario.png)
+- [Incident report template](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)
+- [My incident analysis](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)
+- [Course reference report](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)
+---
 
-<br>
+- [TCP/HTTP network logs](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-TCP-log.pdf)
+- [Color-coded network analysis](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-Color-coded-TCP-log.pdf)
+- [My network incident response](Projects/Practice-Cybersecurity-Network-Report/My-answer-Cybersecurity-incident-report.pdf)
 
-### ***[Certificate 2 - Play It Safe: Manage Security Risks](Cybersecurity-Certificates/2-Coursera-CyberSecurity-Y6B6B0Z7J0CY.pdf)***
+### Risk Assessment
 
-## 3. Connect and Protect: Networks and Network Security
+Practiced identifying, recording, and prioritizing cybersecurity risks.
 
-* **Issued by:** [Coursera]
-* **Date Earned:** [14 September, 2026]
+- [Risk register exercise](Projects/Practice-Cybersecurity-Risk-register/Practice-Risk-register.pdf)
+- [My risk register analysis](Projects/Practice-Cybersecurity-Risk-register/My-Answer-Risk-register.pdf)
+- [Course reference risk register](Projects/Practice-Cybersecurity-Risk-register/Answer-Risk-register-exemplar.pdf)
 
-<br>
+### Data Leak Incident Analysis
 
-#### MOCK SECURITY REPORT
-* Scenario Given :- **[Scenario](Projects/Practice-Cybersecurity-Report/Scenario.png)**
-* Format Given :- **[Format of the question given](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)**
-* My answers of the Practice Security Report :- **[My Analysis in Practise security ](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)**
-* (Official)Answers for the Practice Security Report :- **[Official Answer for the Scenario](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)**
+Worked through a data leak scenario and produced a structured incident analysis.
 
-<br>
+- [Data leak scenario and worksheet](Projects/Practice-Cybersecurity-Data-leak-worksheet/Practice-Data-leak-worksheet.pdf)
+- [My incident analysis](Projects/Practice-Cybersecurity-Data-leak-worksheet/My-answer-Data-leak-worksheet.pdf)
 
-#### MOCK SECURITY NETWORK REPORT
-* TCP HTTP log :- **[Logs](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-TCP-log.pdf)**
-* Color coded TCP logs :- **[Color coded logs](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-Color-coded-TCP-log.pdf)**
-* My answers for the incident :- **[My answers](Projects/Practice-Cybersecurity-Network-Report/My-answer-Cybersecurity-incident-report.pdf)**
+## Learning Progress
 
+### Foundations of Cybersecurity
 
+- [x] Module 1
+- [x] Module 2
+- [x] Module 3
+- [x] Module 4
 
-* [x] Module 1
-* [x] Module 2
-* [x] Module 3
-* [x] Module 4
+### Play It Safe: Manage Security Risks
 
-### ***[Certificate 3 - Connect and Protect: Networks and Network Security](Cybersecurity-Certificates/3-Coursera-Cybersecurity-ZEHF0JOT6J3M.pdf)***
+- [x] Module 1
+- [x] Module 2
+- [x] Module 3
+- [x] Module 4
 
-## 4. Tools of the Trade: Linux and SQL
+### Connect and Protect: Networks and Network Security
 
-* **Issued by:** [Coursera]
-* **Date Earned:** [22 October, 2026]
+- [x] Module 1
+- [x] Module 2
+- [x] Module 3
+- [x] Module 4
 
-<br>
+### Tools of the Trade: Linux and SQL
 
-#### RISK ANALYSIS REPORT
-* Practice Risk Register Question :- **[Question](Projects/Practice-Cybersecurity-Risk-register/Practice-Risk-register.pdf)**
-* My Answer on the Risk Register :- **[My Answers](Projects/Practice-Cybersecurity-Risk-register/My-Answer-Risk-register.pdf)**
-* (Official) Answer on Risk Register :- **[Official Answer](Projects/Practice-Cybersecurity-Risk-register/Answer-Risk-register-exemplar.pdf)**
+- [x] Module 1
+- [x] Module 2
+- [x] Module 3
+- [x] Module 4
 
-* [x] Module 1
-* [x] Module 2
-* [x] Module 3
-* [x] Module 4
+### Assets, Threats, and Vulnerabilities
 
-### ***[Certificate 4 - Tools of the Trade: Linux and SQL](Cybersecurity-Certificates/4-Coursera-Cybersecurity-ANPJXBP5DSOF.pdf)***
-
-## 5. Assets, Threats, and Vulnerabilities
-
-* **Issued by:** [Coursera]
-* **Date Earned:** [ 2026]
-
-
-<br>
-
-#### MOCK DATA LEAK INCIDENT REPORT
-* Practice Data leak Scenario :- **[Quesion and Incident Scenario](Projects/Practice-Cybersecurity-Data-leak-worksheet/Practice-Data-leak-worksheet.pdf)**
-* My answer on the Mock incident :- **[My analysis over it](Projects/Practice-Cybersecurity-Data-leak-worksheet/My-answer-Data-leak-worksheet.pdf)**
-
-
-<>br>
-
-
-* [x] Module 1
-* [x] Module 2
-* [] Module 3
-* [] Module 4
-
-
-
-
-
+- [x] Module 1
+- [x] Module 2
+- [x] Module 3
+- [ ] Module 4
