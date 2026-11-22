@@ -44,7 +44,9 @@ Analyzed network traffic and incident scenarios, then documented findings and co
 - [Incident report template](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)
 - [My incident analysis](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)
 - [Course reference report](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)
+
 <br>
+
 - [TCP/HTTP network logs](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-TCP-log.pdf)
 - [Color-coded network analysis](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-Color-coded-TCP-log.pdf)
 - [My network incident response](Projects/Practice-Cybersecurity-Network-Report/My-answer-Cybersecurity-incident-report.pdf)
