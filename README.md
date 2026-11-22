@@ -55,7 +55,7 @@ This repository holds my official certifications and training achievements in th
 * Scenario Given :- **[Scenario](Projects/Practice-Cybersecurity-Report/Scenario.png)**
 * Format Given :- **[Format of the question given](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)**
 * My answers of the Practice Security Report :- **[My Analysis in Practise security ](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)**
-* (Official)Answers for the Practice Security Report :- **[Answers of the Practise security audits given by Them](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)**
+* (Official)Answers for the Practice Security Report :- **[Official Answer for the Scenario](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)**
 
 <br>
 
