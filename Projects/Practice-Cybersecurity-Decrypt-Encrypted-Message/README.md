@@ -57,4 +57,6 @@ cat Q1.recovered
 
 ## Conclusion
 
-This exercise builds practical Bash skills for finding hidden files and reversing a Caesar cipher, then applies OpenSSL to decrypt an encrypted file - a useful step toward understanding encryption and data recovery.
+- List hidden files
+- Decrypt a Caesar cipher
+- Decrypt an encrypted file.
