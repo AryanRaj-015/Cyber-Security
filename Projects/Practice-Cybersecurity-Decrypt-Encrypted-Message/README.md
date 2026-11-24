@@ -5,6 +5,10 @@
 - **Category:** Cryptography & Linux Command Line
 - **Tools Used:** Linux Bash (`ls`, `cat`, `tr`), OpenSSL (`aes-256-cbc`)
 
+## Scenario
+
+The analyst's home directory contains encrypted files. The task is to inspect the directory, uncover and reverse a hidden Caesar-cipher clue, then use the recovered instructions to decrypt the data and reveal its message.
+
 ## 1. Objective
 
 Explore a target Linux home directory to locate hidden files, break a Caesar cipher substitution using character translation, and decrypt an AES-256-CBC encrypted file to recover a hidden message.
@@ -50,3 +54,7 @@ cat Q1.recovered
 
 - **Classical vs. Modern Encryption:** Substitution ciphers like Caesar are trivial to reverse once the shift pattern is identified, whereas symmetric algorithms like AES-256 require both the exact cipher mode and a secret passphrase (`-k`).
 - **Linux Forensics:** Using `ls -a` is essential during initial triage because configuration files and hidden clues often use leading dots (`.`) to stay hidden from standard directory listings.
+
+## Conclusion
+
+This exercise builds practical Bash skills for finding hidden files and reversing a Caesar cipher, then applies OpenSSL to decrypt an encrypted file - a useful step toward understanding encryption and data recovery.

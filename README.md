@@ -28,6 +28,12 @@ It is also a working portfolio of how I apply foundational concepts to structure
 
 ## Practical Work
 
+### Linux and Cryptography
+
+Used Linux commands to uncover a hidden cipher clue and OpenSSL to decrypt a message.
+
+- [Course 5: Decrypt an encrypted message](Projects/Practice-Cybersecurity-Decrypt-Encrypted-Message/README.md)
+
 ### Security Audits
 
 Reviewed a security assessment scenario and documented risks, scope, goals, and recommended controls.
@@ -102,7 +108,3 @@ Worked through a data leak scenario and produced a structured incident analysis.
 - [x] Module 2
 - [x] Module 3
 - [ ] Module 4
-
-#### Labs
-
-- [Decrypt an encrypted message](Projects/Practice-Cybersecurity-Decrypt-Encrypted-Message/README.md) - find a hidden Caesar-cipher clue and use OpenSSL to recover a message.
