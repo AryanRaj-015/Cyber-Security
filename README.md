@@ -28,13 +28,9 @@ It is also a working portfolio of how I apply foundational concepts to structure
 
 ## Practical Work
 
-### Linux and Cryptography
+### Course 2: Play It Safe: Manage Security Risks
 
-Used Linux commands to uncover a hidden cipher clue and OpenSSL to decrypt a message.
-
-- [Course 5: Decrypt an encrypted message](Projects/Practice-Cybersecurity-Decrypt-Encrypted-Message/README.md)
-
-### Security Audits
+#### Security Audits
 
 Reviewed a security assessment scenario and documented risks, scope, goals, and recommended controls.
 
@@ -42,7 +38,9 @@ Reviewed a security assessment scenario and documented risks, scope, goals, and 
 - [Security audit practice materials](Projects/Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)
 - [My completed audit analysis](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)
 
-### Incident Response and Network Analysis
+### Course 3: Connect and Protect: Networks and Network Security
+
+#### Incident Response and Network Analysis
 
 Analyzed network traffic and incident scenarios, then documented findings and compared them with course reference responses.
 
@@ -57,7 +55,15 @@ Analyzed network traffic and incident scenarios, then documented findings and co
 - [Color-coded network analysis](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-Color-coded-TCP-log.pdf)
 - [My network incident response](Projects/Practice-Cybersecurity-Network-Report/My-answer-Cybersecurity-incident-report.pdf)
 
-### Risk Assessment
+### Course 5: Assets, Threats, and Vulnerabilities
+
+#### Linux and Cryptography
+
+Used Linux commands to uncover a hidden cipher clue and OpenSSL to decrypt a message.
+
+- [Decrypt an encrypted message](Projects/Practice-Cybersecurity-Decrypt-Encrypted-Message/README.md)
+
+#### Risk Assessment
 
 Practiced identifying, recording, and prioritizing cybersecurity risks.
 
@@ -65,7 +71,7 @@ Practiced identifying, recording, and prioritizing cybersecurity risks.
 - [My risk register analysis](Projects/Practice-Cybersecurity-Risk-register/My-Answer-Risk-register.pdf)
 - [Course reference risk register](Projects/Practice-Cybersecurity-Risk-register/Answer-Risk-register-exemplar.pdf)
 
-### Data Leak Incident Analysis
+#### Data Leak Incident Analysis
 
 Worked through a data leak scenario and produced a structured incident analysis.
 
