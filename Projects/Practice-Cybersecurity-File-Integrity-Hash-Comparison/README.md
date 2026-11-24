@@ -26,7 +26,7 @@ cat file1.txt
 cat file2.txt
 ```
 
-![Inspect the two files](./images/01-inspect-files.png)
+![Inspect the two files](./images/01-file-inspection.png)
 
 ### 2. Calculate SHA-256 Hashes
 
@@ -42,7 +42,7 @@ sha256sum file2.txt
 2558ba9a4cad1e69804ce03aa2a029526179a91a5e38cb723320e83af9ca017b  file2.txt
 ```
 
-![Generate and review SHA-256 hashes](./images/02-generate-hashes.png)
+![Generate and review SHA-256 hashes](./images/02-sha256-generation.png)
 
 ### 3. Save the Hash Records
 
@@ -54,7 +54,7 @@ cat file1hash
 cat file2hash
 ```
 
-![Save and inspect the hash records](./images/03-save-hash-records.png)
+![Save and inspect the hash records](./images/03-hash-redirection.png)
 
 ### 4. Compare the Hash Records
 
@@ -70,7 +70,7 @@ cmp file1hash file2hash
 file1hash file2hash differ: char 1, line 1
 ```
 
-![Compare the hash records](./images/04-compare-hashes.png)
+![Compare the hash records](./images/04-cmp-verification.png)
 
 ## Result
 
