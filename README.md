@@ -77,6 +77,12 @@ Used Linux commands to uncover a hidden cipher clue and OpenSSL to decrypt a mes
 
 > **Featured lab:** [Decrypt an encrypted message](Projects/Practice-Cybersecurity-Decrypt-Encrypted-Message/README.md)
 
+#### File Integrity and Hash Comparison
+
+Used SHA-256 hashes to identify an unexpected change between two files.
+
+> **Lab write-up:** [File integrity verification and hash comparison](Projects/Practice-Cybersecurity-File-Integrity-Hash-Comparison/README.md)
+
 #### Risk Assessment
 
 Practiced identifying, recording, and prioritizing cybersecurity risks.
