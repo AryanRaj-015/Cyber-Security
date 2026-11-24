@@ -94,4 +94,4 @@ Worked through a data leak scenario and documented the findings.
 
 ---
 
-<p align="center"><em>All projects are coursework and lab practice; they do not represent professional employment or production-security experience.</em></p>
+<p align="center"><em>A growing portfolio of cybersecurity coursework, applied analysis, and hands-on labs.</em></p>
