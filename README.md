@@ -20,7 +20,7 @@ Building practical cybersecurity skills through structured coursework and hands-
 
 **Current focus:** Course 5 - Assets, Threats, and Vulnerabilities (3 of 4 modules complete).
 
-It is also a working portfolio of how I apply foundational concepts to structured, evidence-based security tasks.
+## Focus Areas
 
 | Area | Applied work |
 |---|---|
@@ -49,7 +49,7 @@ Reviewed an assessment scenario and documented its scope, goals, risks, and reco
 
 - [Botium Toys scope, goals, and risk assessment](Projects/Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)
 - [Security audit practice materials](Projects/Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)
-- [My completed audit analysis](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)
+- [Completed audit analysis](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)
 
 ---
 
@@ -63,9 +63,6 @@ Analyzed incident scenarios and network traffic, documented findings, and compar
 - [Incident report template](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)
 - [My incident analysis](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)
 - [Course reference report](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)
-
-<br>
-
 - [TCP/HTTP network logs](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-TCP-log.pdf)
 - [Color-coded network analysis](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-Color-coded-TCP-log.pdf)
 - [My network incident response](Projects/Practice-Cybersecurity-Network-Report/My-answer-Cybersecurity-incident-report.pdf)
