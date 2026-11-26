@@ -46,27 +46,25 @@ Building practical cybersecurity skills through structured coursework and hands-
 
 #### Security Audits
 
-Reviewed an assessment scenario and documented its scope, goals, risks, and recommended controls.
+Assessed Botium Toys' security controls, compliance practices, and asset-related risks.
 
-- [Botium Toys scope, goals, and risk assessment](Projects/Practice-Cybersecurity-Audits/Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)
-- [Security audit practice materials](Projects/Practice-Cybersecurity-Audits/Practice-Security-Audits.pdf)
-- [Completed audit analysis](Projects/Practice-Cybersecurity-Audits/Answers-of-Practice-Security-Audits.pdf)
+> **Lab write-up:** [Security audit and risk assessment](Projects/Practice-Cybersecurity-Audits/README.md)
 
 ---
 
 ### Course 3 | Connect and Protect: Networks and Network Security
 
-#### Incident Response and Network Analysis
+#### Incident Response | DNS Troubleshooting
 
-Analyzed incident scenarios and network traffic, documented findings, and compared the analysis with course references.
+Investigated a website availability issue by analyzing DNS and ICMP traffic and documenting likely causes.
 
-- [Incident scenario](Projects/Practice-Cybersecurity-Report/Scenario.png)
-- [Incident report template](Projects/Practice-Cybersecurity-Report/Cybersecurity-incident-report-network-traffic-analysis.pdf)
-- [My incident analysis](Projects/Practice-Cybersecurity-Report/My-answers-in-Cybersecurity-incident-report-network-traffic-analysis.pdf)
-- [Course reference report](Projects/Practice-Cybersecurity-Report/The-Exemplar-Explained-Cybersecurity-Incident-Report-Network-Traffic-Analysis.pdf)
-- [TCP/HTTP network logs](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-TCP-log.pdf)
-- [Color-coded network analysis](Projects/Practice-Cybersecurity-Network-Report/Wireshark-TCP-HTTP-log-Color-coded-TCP-log.pdf)
-- [My network incident response](Projects/Practice-Cybersecurity-Network-Report/My-answer-Cybersecurity-incident-report.pdf)
+> **Lab write-up:** [DNS incident report](Projects/Practice-Cybersecurity-Report/README.md)
+
+#### Network Analysis | TCP SYN Flood
+
+Reviewed Wireshark TCP/HTTP logs to distinguish normal handshakes from repeated SYN traffic and service failures.
+
+> **Lab write-up:** [TCP network traffic analysis](Projects/Practice-Cybersecurity-Network-Report/README.md)
 
 ---
 
@@ -92,18 +90,15 @@ Reviewed employee access and an event log to identify excessive permissions and 
 
 #### Risk Assessment
 
-Practiced identifying, recording, and prioritizing cybersecurity risks.
+Recorded and prioritized risks for a banking environment using likelihood and severity ratings.
 
-- [Risk register exercise](Projects/Practice-Cybersecurity-Risk-register/Practice-Risk-register.pdf)
-- [My risk register analysis](Projects/Practice-Cybersecurity-Risk-register/My-Answer-Risk-register.pdf)
-- [Course reference risk register](Projects/Practice-Cybersecurity-Risk-register/Answer-Risk-register-exemplar.pdf)
+> **Lab write-up:** [Risk register exercise](Projects/Practice-Cybersecurity-Risk-register/README.md)
 
 #### Data Leak Incident Analysis
 
-Worked through a data leak scenario and documented the findings.
+Analyzed an accidental external disclosure and applied least-privilege recommendations.
 
-- [Data leak scenario and worksheet](Projects/Practice-Cybersecurity-Data-leak-worksheet/Practice-Data-leak-worksheet.pdf)
-- [My incident analysis](Projects/Practice-Cybersecurity-Data-leak-worksheet/My-answer-Data-leak-worksheet.pdf)
+> **Lab write-up:** [Data leak and least-privilege review](Projects/Practice-Cybersecurity-Data-leak-worksheet/README.md)
 
 ---
 
