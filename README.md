@@ -25,6 +25,7 @@ Building practical cybersecurity skills through structured coursework and hands-
 | Area | Applied work |
 |---|---|
 | **Risk and audits** | Security assessments, risk registers, and data leak analysis |
+| **Access control** | Role-based access, least privilege, and account lifecycle review |
 | **Networks and response** | Incident documentation, TCP/HTTP traffic, and Wireshark analysis |
 | **Linux and cryptography** | Bash, hidden-file discovery, Caesar ciphers, and OpenSSL decryption |
 | **Tools** | Linux, SQL, Wireshark, and OpenSSL |
@@ -82,6 +83,12 @@ Used Linux commands to uncover a hidden cipher clue and OpenSSL to decrypt a mes
 Used SHA-256 hashes to identify an unexpected change between two files.
 
 > **Lab write-up:** [File integrity verification and hash comparison](Projects/Practice-Cybersecurity-File-Integrity-Hash-Comparison/README.md)
+
+#### Access Control
+
+Reviewed employee access and an event log to identify excessive permissions and recommend least-privilege controls.
+
+> **Lab write-up:** [Access control worksheet](Projects/Practice-Cybersecurity-Access-Control-Worksheet/README.md)
 
 #### Risk Assessment
 
